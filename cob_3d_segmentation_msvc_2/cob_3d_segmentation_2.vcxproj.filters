@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\evaluate_plane_segmentation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\profile_depth_seg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\profile_multi_plane_seg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\profile_plane_extraction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\segmentation_main_function.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\test_depth_segmentation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\test_pcl_segmentation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\test_plane_extraction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\tutorial_fast_segmentation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\cluster_classifier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\cluster_conversion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\cluster_graph_structure.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\cluster_handler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\cluster_types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\depth_segmentation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\edge_handler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\edge_types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\eval.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\fast_segmentation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\general_segmentation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\plane_extraction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\point_types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

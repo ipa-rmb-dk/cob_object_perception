@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\evaluate_plane_segmentation.cpp" />
+    <ClCompile Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\profile_depth_seg.cpp" />
+    <ClCompile Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\profile_multi_plane_seg.cpp" />
+    <ClCompile Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\profile_plane_extraction.cpp" />
+    <ClCompile Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\segmentation_main_function.cpp" />
+    <ClCompile Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\test_depth_segmentation.cpp" />
+    <ClCompile Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\test_pcl_segmentation.cpp" />
+    <ClCompile Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\test_plane_extraction.cpp" />
+    <ClCompile Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\tutorial_fast_segmentation.cpp" />
+    <ClCompile Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\src\cluster_classifier.cpp" />
+    <ClCompile Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\src\cluster_graph_structure.cpp" />
+    <ClCompile Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\src\cluster_handler.cpp" />
+    <ClCompile Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\src\depth_segmentation.cpp" />
+    <ClCompile Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\src\edge_handler.cpp" />
+    <ClCompile Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\src\plane_extraction.cpp" />
+    <ClCompile Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\src\polygon_extraction.cpp" />
+    <ClCompile Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\src\tool_qppf2file.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\cluster_classifier.h" />
+    <ClInclude Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\cluster_conversion.h" />
+    <ClInclude Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\cluster_graph_structure.h" />
+    <ClInclude Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\cluster_handler.h" />
+    <ClInclude Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\cluster_types.h" />
+    <ClInclude Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\depth_segmentation.h" />
+    <ClInclude Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\edge_handler.h" />
+    <ClInclude Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\edge_types.h" />
+    <ClInclude Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\eval.h" />
+    <ClInclude Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\fast_segmentation.h" />
+    <ClInclude Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\general_segmentation.h" />
+    <ClInclude Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\plane_extraction.h" />
+    <ClInclude Include="..\..\..\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\include\cob_3d_segmentation\point_types.h" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{4B5058FE-C1C4-463D-A6F8-A61E9D1A3D42}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>cob_3D_segmentation</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

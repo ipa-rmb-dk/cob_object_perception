@@ -1,0 +1,35 @@
+﻿  tool_qppf2file.cpp
+c:\users\jsf-local\workspace\git\dominikus_kimmich\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\src\tool_qppf2file.cpp(63): fatal error C1083: Cannot open include file: 'ros/ros.h': No such file or directory
+  polygon_extraction.cpp
+c:\users\jsf-local\workspace\git\dominikus_kimmich\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\src\polygon_extraction.cpp(65): fatal error C1083: Cannot open include file: 'cob_3d_segmentation/polygon_extraction/polygon_extraction.h': No such file or directory
+  plane_extraction.cpp
+c:\users\jsf-local\workspace\git\dominikus_kimmich\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\src\plane_extraction.cpp(72): fatal error C1083: Cannot open include file: 'ros/console.h': No such file or directory
+  edge_handler.cpp
+c:\users\jsf-local\workspace\git\dominikus_kimmich\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\src\edge_handler.cpp(63): fatal error C1083: Cannot open include file: 'pcl/point_types.h': No such file or directory
+  depth_segmentation.cpp
+c:\users\jsf-local\workspace\git\dominikus_kimmich\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\src\depth_segmentation.cpp(63): fatal error C1083: Cannot open include file: 'pcl/point_types.h': No such file or directory
+  cluster_handler.cpp
+c:\users\jsf-local\workspace\git\dominikus_kimmich\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\src\cluster_handler.cpp(63): fatal error C1083: Cannot open include file: 'pcl/point_types.h': No such file or directory
+  cluster_graph_structure.cpp
+c:\users\jsf-local\workspace\git\dominikus_kimmich\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\src\cluster_graph_structure.cpp(63): fatal error C1083: Cannot open include file: 'pcl/point_types.h': No such file or directory
+  cluster_classifier.cpp
+c:\users\jsf-local\workspace\git\dominikus_kimmich\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\src\cluster_classifier.cpp(63): fatal error C1083: Cannot open include file: 'pcl/point_types.h': No such file or directory
+  tutorial_fast_segmentation.cpp
+c:\users\jsf-local\workspace\git\dominikus_kimmich\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\tutorial_fast_segmentation.cpp(1): fatal error C1083: Cannot open include file: 'ros/ros.h': No such file or directory
+  test_plane_extraction.cpp
+c:\users\jsf-local\workspace\git\dominikus_kimmich\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\test_plane_extraction.cpp(64): fatal error C1083: Cannot open include file: 'boost/program_options.hpp': No such file or directory
+  test_pcl_segmentation.cpp
+c:\users\jsf-local\workspace\git\dominikus_kimmich\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\test_pcl_segmentation.cpp(63): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  test_depth_segmentation.cpp
+c:\users\jsf-local\workspace\git\dominikus_kimmich\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\test_depth_segmentation.cpp(64): fatal error C1083: Cannot open include file: 'boost/program_options.hpp': No such file or directory
+  segmentation_main_function.cpp
+c:\users\jsf-local\workspace\git\dominikus_kimmich\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\segmentation_main_function.cpp(59): fatal error C1083: Cannot open include file: 'cob_3d_features/segmentation.h': No such file or directory
+  profile_plane_extraction.cpp
+c:\users\jsf-local\workspace\git\dominikus_kimmich\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\profile_plane_extraction.cpp(64): fatal error C1083: Cannot open include file: 'pcl/point_types.h': No such file or directory
+  profile_multi_plane_seg.cpp
+c:\users\jsf-local\workspace\git\dominikus_kimmich\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\profile_multi_plane_seg.cpp(65): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  profile_depth_seg.cpp
+c:\users\jsf-local\workspace\git\dominikus_kimmich\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\profile_depth_seg.cpp(64): fatal error C1083: Cannot open include file: 'pcl/point_types.h': No such file or directory
+  evaluate_plane_segmentation.cpp
+c:\users\jsf-local\workspace\git\dominikus_kimmich\git_clone_qppf_edit_1\cob_environment_perception\cob_3d_segmentation\common\apps\evaluate_plane_segmentation.cpp(67): fatal error C1083: Cannot open include file: 'boost/program_options.hpp': No such file or directory
+  Generating Code...

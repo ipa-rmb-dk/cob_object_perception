@@ -1,0 +1,23 @@
+﻿  FiducialModelPi.cpp
+c:\users\jsf-local\workspace\git\care-o-bot\cob_object_perception_intern\windows\src\precompiledheaders\stdafx.h(18): fatal error C1083: Cannot open include file: 'boost/shared_ptr.hpp': No such file or directory
+  markerdetector.cpp
+c:\users\jsf-local\workspace\git\care-o-bot\cob_object_perception_intern\windows\src\precompiledheaders\stdafx.h(18): fatal error C1083: Cannot open include file: 'boost/shared_ptr.hpp': No such file or directory
+  marker.cpp
+c:\users\jsf-local\workspace\git\care-o-bot\cob_object_perception_intern\windows\src\precompiledheaders\stdafx.h(18): fatal error C1083: Cannot open include file: 'boost/shared_ptr.hpp': No such file or directory
+  cvdrawingutils.cpp
+c:\users\jsf-local\workspace\git\care-o-bot\cob_object_perception_intern\windows\src\precompiledheaders\stdafx.h(18): fatal error C1083: Cannot open include file: 'boost/shared_ptr.hpp': No such file or directory
+  cameraparameters.cpp
+c:\users\jsf-local\workspace\git\care-o-bot\cob_object_perception_intern\windows\src\precompiledheaders\stdafx.h(18): fatal error C1083: Cannot open include file: 'boost/shared_ptr.hpp': No such file or directory
+  boarddetector.cpp
+c:\users\jsf-local\workspace\git\care-o-bot\cob_object_perception_intern\windows\src\precompiledheaders\stdafx.h(18): fatal error C1083: Cannot open include file: 'boost/shared_ptr.hpp': No such file or directory
+  board.cpp
+c:\users\jsf-local\workspace\git\care-o-bot\cob_object_perception_intern\windows\src\precompiledheaders\stdafx.h(18): fatal error C1083: Cannot open include file: 'boost/shared_ptr.hpp': No such file or directory
+  arucofidmarkers.cpp
+c:\users\jsf-local\workspace\git\care-o-bot\cob_object_perception_intern\windows\src\precompiledheaders\stdafx.h(18): fatal error C1083: Cannot open include file: 'boost/shared_ptr.hpp': No such file or directory
+  FiducialModelAruco.cpp
+c:\users\jsf-local\workspace\git\care-o-bot\cob_object_perception_intern\windows\src\precompiledheaders\stdafx.h(18): fatal error C1083: Cannot open include file: 'boost/shared_ptr.hpp': No such file or directory
+  FiducialTestingEnvironment.cpp
+c:\users\jsf-local\workspace\git\care-o-bot\cob_object_perception_intern\windows\src\precompiledheaders\stdafx.h(18): fatal error C1083: Cannot open include file: 'boost/shared_ptr.hpp': No such file or directory
+  AbstractFiducialModel.cpp
+c:\users\jsf-local\workspace\git\care-o-bot\cob_object_perception_intern\windows\src\precompiledheaders\stdafx.h(18): fatal error C1083: Cannot open include file: 'boost/shared_ptr.hpp': No such file or directory
+  Generating Code...

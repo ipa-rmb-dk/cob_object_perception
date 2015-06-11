@@ -1,0 +1,30 @@
+﻿  AbstractBlobDetector.cpp
+..\src\AbstractBlobDetector.cpp(1): fatal error C1083: Cannot open include file: 'object_categorization/AbstractBlobDetector.h': No such file or directory
+  BlobFeature.cpp
+..\src\BlobFeature.cpp(1): fatal error C1083: Cannot open include file: 'object_categorization/BlobFeature.h': No such file or directory
+  BlobList.cpp
+..\src\BlobList.cpp(1): fatal error C1083: Cannot open include file: 'object_categorization/BlobList.h': No such file or directory
+  DetectorCore.cpp
+..\src\DetectorCore.cpp(1): fatal error C1083: Cannot open include file: 'object_categorization/DetectorCore.h': No such file or directory
+  ICP.cpp
+..\src\ICP.cpp(40): fatal error C1083: Cannot open include file: 'object_categorization/ICP.h': No such file or directory
+  JBKUtils.cpp
+..\src\JBKUtils.cpp(4): fatal error C1083: Cannot open include file: 'object_categorization/JBKUtils.h': No such file or directory
+  Math3d.cpp
+..\src\Math3d.cpp(38): fatal error C1083: Cannot open include file: 'object_categorization/Math3d.h': No such file or directory
+  ObjectClassifier.cpp
+..\src\ObjectClassifier.cpp(1): fatal error C1083: Cannot open include file: 'object_categorization/ObjectClassifier.h': No such file or directory
+  ObjectClassifierMain.cpp
+..\src\ObjectClassifierMain.cpp(1): fatal error C1083: Cannot open include file: 'object_categorization/ObjectClassifier.h': No such file or directory
+  OpenCVUtils.cpp
+..\src\OpenCVUtils.cpp(1): fatal error C1083: Cannot open include file: 'object_categorization/OpenCVUtils.h': No such file or directory
+  gfpfh.cpp
+..\src\pcl\gfpfh.cpp(40): fatal error C1083: Cannot open include file: 'pcl/point_types.h': No such file or directory
+  SharedImageJBK.cpp
+..\src\SharedImageJBK.cpp(1): fatal error C1083: Cannot open include file: 'object_categorization/SharedImageJBK.h': No such file or directory
+  SharedImageSequence.cpp
+..\src\SharedImageSequence.cpp(1): fatal error C1083: Cannot open include file: 'object_categorization/SharedImageSequence.h': No such file or directory
+  ThreeDUtils.cpp
+..\src\ThreeDUtils.cpp(4): fatal error C1083: Cannot open include file: 'object_categorization/ThreeDUtils.h': No such file or directory
+  timer.cpp
+..\src\timer.cpp(15): fatal error C1083: Cannot open include file: 'object_categorization/timer.h': No such file or directory

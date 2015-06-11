@@ -1,0 +1,205 @@
+﻿  C:\Users\jsf-local\workspace\git\care-o-bot\cob_object_perception_intern\cob_object_detection\msvc\LibVisionUtilsDebug\vc100.pdb
+  1 Datei(en) kopiert
+  AbstractFiducialModel.cpp
+..\common\src\AbstractFiducialModel.cpp(1): warning C4005: 'WIN32' : macro redefinition
+          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\windef.h(31) : see previous definition of 'WIN32'
+  arucofidmarkers.cpp
+..\common\src\aruco\arucofidmarkers.cpp(31): warning C4005: 'WIN32' : macro redefinition
+          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\windef.h(31) : see previous definition of 'WIN32'
+..\common\src\aruco\arucofidmarkers.cpp(107): warning C4244: 'argument' : conversion from 'int64' to 'unsigned int', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(131): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(131): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(132): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(132): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(133): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(133): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(134): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(134): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(135): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(135): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(152): warning C4244: 'argument' : conversion from 'int64' to 'unsigned int', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(184): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(184): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(185): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(185): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(186): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(186): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(187): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(187): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(190): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(190): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(213): warning C4244: 'argument' : conversion from 'int64' to 'unsigned int', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(237): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(237): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(238): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(238): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(239): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(239): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(240): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(240): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(243): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(243): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(303): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+..\common\src\aruco\arucofidmarkers.cpp(440): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+  board.cpp
+..\common\src\aruco\board.cpp(28): warning C4005: 'WIN32' : macro redefinition
+          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\windef.h(31) : see previous definition of 'WIN32'
+..\common\src\aruco\board.cpp(147): warning C4267: 'return' : conversion from 'size_t' to 'int', possible loss of data
+  boarddetector.cpp
+..\common\src\aruco\boarddetector.cpp(28): warning C4005: 'WIN32' : macro redefinition
+          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\windef.h(31) : see previous definition of 'WIN32'
+..\common\src\aruco\boarddetector.cpp(111): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\boarddetector.cpp(149): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+..\common\src\aruco\boarddetector.cpp(150): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+..\common\src\aruco\boarddetector.cpp(159): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+..\common\src\aruco\boarddetector.cpp(160): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+..\common\src\aruco\boarddetector.cpp(163): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+..\common\src\aruco\boarddetector.cpp(163): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\boarddetector.cpp(164): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+..\common\src\aruco\boarddetector.cpp(164): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\boarddetector.cpp(165): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+..\common\src\aruco\boarddetector.cpp(165): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\boarddetector.cpp(182): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\boarddetector.cpp(192): warning C4305: 'initializing' : truncation from 'double' to 'float'
+  cameraparameters.cpp
+..\common\src\aruco\cameraparameters.cpp(28): warning C4005: 'WIN32' : macro redefinition
+          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\windef.h(31) : see previous definition of 'WIN32'
+..\common\src\aruco\cameraparameters.cpp(142): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+..\common\src\aruco\cameraparameters.cpp(143): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+  cvdrawingutils.cpp
+..\common\src\aruco\cvdrawingutils.cpp(28): warning C4005: 'WIN32' : macro redefinition
+          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\windef.h(31) : see previous definition of 'WIN32'
+..\common\src\aruco\cvdrawingutils.cpp(82): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\cvdrawingutils.cpp(84): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\cvdrawingutils.cpp(85): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\cvdrawingutils.cpp(87): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\cvdrawingutils.cpp(88): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\cvdrawingutils.cpp(90): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\cvdrawingutils.cpp(91): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\cvdrawingutils.cpp(93): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\cvdrawingutils.cpp(95): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\cvdrawingutils.cpp(97): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\cvdrawingutils.cpp(98): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\cvdrawingutils.cpp(100): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\cvdrawingutils.cpp(101): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\cvdrawingutils.cpp(103): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\cvdrawingutils.cpp(104): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\cvdrawingutils.cpp(106): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+  FiducialModelAruco.cpp
+..\common\src\aruco\FiducialModelAruco.cpp(1): warning C4005: 'WIN32' : macro redefinition
+          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\windef.h(31) : see previous definition of 'WIN32'
+..\common\src\aruco\FiducialModelAruco.cpp(68): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+..\common\src\aruco\FiducialModelAruco.cpp(82): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\FiducialModelAruco.cpp(83): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\FiducialModelAruco.cpp(85): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\FiducialModelAruco.cpp(86): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\FiducialModelAruco.cpp(88): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\FiducialModelAruco.cpp(89): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\FiducialModelAruco.cpp(91): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\FiducialModelAruco.cpp(92): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\FiducialModelAruco.cpp(117): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+  marker.cpp
+..\common\src\aruco\marker.cpp(29): warning C4005: 'WIN32' : macro redefinition
+          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\windef.h(31) : see previous definition of 'WIN32'
+..\common\src\aruco\marker.cpp(249): warning C4244: '+=' : conversion from 'const float' to 'int', possible loss of data
+..\common\src\aruco\marker.cpp(250): warning C4244: '+=' : conversion from 'const float' to 'int', possible loss of data
+..\common\src\aruco\marker.cpp(252): warning C4244: '/=' : conversion from 'double' to 'int', possible loss of data
+..\common\src\aruco\marker.cpp(253): warning C4244: '/=' : conversion from 'double' to 'int', possible loss of data
+..\common\src\aruco\marker.cpp(279): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\marker.cpp(280): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\marker.cpp(282): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\marker.cpp(283): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\marker.cpp(285): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\marker.cpp(286): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\marker.cpp(288): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\marker.cpp(289): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\marker.cpp(322): warning C4305: 'initializing' : truncation from 'double' to 'float'
+..\common\src\aruco\marker.cpp(361): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\marker.cpp(372): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+  markerdetector.cpp
+..\common\src\aruco\markerdetector.cpp(28): warning C4005: 'WIN32' : macro redefinition
+          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\windef.h(31) : see previous definition of 'WIN32'
+..\common\src\aruco\markerdetector.cpp(65): warning C4305: '=' : truncation from 'double' to 'float'
+..\common\src\aruco\markerdetector.cpp(154): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(177): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(187): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(188): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(283): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(284): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(335): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(335): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(438): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(470): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(471): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(471): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(472): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(485): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(486): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(491): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(493): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(495): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(497): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(511): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(528): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(547): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(549): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(633): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(635): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(636): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(636): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(637): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(654): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(655): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(656): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(658): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(659): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(728): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(749): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(749): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(754): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(754): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(757): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(761): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(805): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(835): warning C4244: '=' : conversion from 'const int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(836): warning C4244: '=' : conversion from 'const int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(838): warning C4244: '=' : conversion from 'const int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(839): warning C4244: '=' : conversion from 'const int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(840): warning C4244: '=' : conversion from 'const int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(841): warning C4244: '=' : conversion from 'const int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(845): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(846): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+..\common\src\aruco\markerdetector.cpp(855): warning C4244: '=' : conversion from 'const int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(857): warning C4244: '=' : conversion from 'const int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(870): warning C4244: '=' : conversion from 'const int' to 'float', possible loss of data
+..\common\src\aruco\markerdetector.cpp(872): warning C4244: '=' : conversion from 'const int' to 'float', possible loss of data
+  FiducialTestingEnvironment.cpp
+..\common\src\FiducialTestingEnvironment.cpp(1): warning C4005: 'WIN32' : macro redefinition
+          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\windef.h(31) : see previous definition of 'WIN32'
+  FiducialModelPi.cpp
+..\common\src\pi\FiducialModelPi.cpp(1): warning C4005: 'WIN32' : macro redefinition
+          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\windef.h(31) : see previous definition of 'WIN32'
+..\common\src\pi\FiducialModelPi.cpp(206): warning C4244: 'initializing' : conversion from 'double' to 'unsigned int', possible loss of data
+..\common\src\pi\FiducialModelPi.cpp(213): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+..\common\src\pi\FiducialModelPi.cpp(214): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+..\common\src\pi\FiducialModelPi.cpp(233): warning C4244: 'initializing' : conversion from 'double' to 'unsigned int', possible loss of data
+..\common\src\pi\FiducialModelPi.cpp(242): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+..\common\src\pi\FiducialModelPi.cpp(243): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+..\common\src\pi\FiducialModelPi.cpp(264): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+..\common\src\pi\FiducialModelPi.cpp(265): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+..\common\src\pi\FiducialModelPi.cpp(296): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+..\common\src\pi\FiducialModelPi.cpp(320): warning C4267: '=' : conversion from 'size_t' to 'unsigned int', possible loss of data
+..\common\src\pi\FiducialModelPi.cpp(325): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+..\common\src\pi\FiducialModelPi.cpp(345): warning C4244: 'initializing' : conversion from 'double' to 'unsigned int', possible loss of data
+..\common\src\pi\FiducialModelPi.cpp(1336): warning C4305: 'initializing' : truncation from 'double' to 'float'
+..\common\src\pi\FiducialModelPi.cpp(1337): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+..\common\src\pi\FiducialModelPi.cpp(1338): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+..\common\src\pi\FiducialModelPi.cpp(1339): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+..\common\src\pi\FiducialModelPi.cpp(1340): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+..\common\src\pi\FiducialModelPi.cpp(1480): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+..\common\src\pi\FiducialModelPi.cpp(1481): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+     Creating library C:\Users\jsf-local\workspace\git\care-o-bot\cob_object_perception_intern\cob_object_detection\msvc\LibFiducialsDebug\LibFiducialsD.lib and object C:\Users\jsf-local\workspace\git\care-o-bot\cob_object_perception_intern\cob_object_detection\msvc\LibFiducialsDebug\LibFiducialsD.exp
+  LibFiducials.vcxproj -> C:\Users\jsf-local\workspace\git\care-o-bot\cob_object_perception_intern\cob_object_detection\msvc\LibFiducialsDebug\LibFiducialsD.dll
+          1 Datei(en) kopiert.
+          1 Datei(en) kopiert.

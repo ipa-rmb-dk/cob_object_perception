@@ -1,0 +1,39 @@
+﻿Der Buildvorgang wurde am 25.05.2015 11:14:52 gestartet.
+     1>Projekt "E:\mit_richard_03_05_2015\cob_object_perception\cob_fiducials\msvc\LibFiducials.vcxproj" auf Knoten "3", build Ziel(e).
+     1>InitializeBuildStatus:
+         "LibFiducialsRelease\LibFiducials.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       PreBuildEvent:
+         Description: Copying program databas file from LibVisionUtils.vcxproj project
+         xcopy /D /Y "E:\mit_richard_03_05_2015\cob_object_perception_intern\cob_object_detection\msvc\LibVisionUtilsRelease\vc100.pdb" ".\LibFiducialsRelease\"
+         :VCEnd
+         E:\mit_richard_03_05_2015\cob_object_perception_intern\cob_object_detection\msvc\LibVisionUtilsRelease\vc100.pdb
+         1 Datei(en) kopiert
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I\include /I\include /I\include /I\include\opencv /Zi /nologo /W3 /WX- /MP /O2 /Ob2 /Oi /Ot /Oy /D __LIBFIDUCIALS_EXPORT__ /D _WIN32 /D _WIN64 /D WIN32 /D NDEBUG /D WM5_CORE_DLL_IMPORT /D WM5_MATHEMATICS_DLL_IMPORT /D CMINPACK_NO_DLL /D FLANN_STATIC /D EIGEN_USE_NEW_STDVECTOR /D EIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Yu"cob_vision_utils\StdAfx.h" /Fp"\cob_object_perception_intern\windows\pch\LibVisionUtils.pch" /Fo"LibFiducialsRelease\\" /Fd"LibFiducialsRelease\vc100.pdb" /Gd /TP /wd4290 /errorReport:prompt ..\common\src\AbstractFiducialModel.cpp ..\common\src\aruco\arucofidmarkers.cpp ..\common\src\aruco\board.cpp ..\common\src\aruco\boarddetector.cpp ..\common\src\aruco\cameraparameters.cpp ..\common\src\aruco\cvdrawingutils.cpp ..\common\src\aruco\FiducialModelAruco.cpp ..\common\src\aruco\marker.cpp ..\common\src\aruco\markerdetector.cpp ..\common\src\FiducialTestingEnvironment.cpp ..\common\src\pi\FiducialModelPi.cpp /wd4996 /wd4181 /Zm233 
+         AbstractFiducialModel.cpp
+         arucofidmarkers.cpp
+     1>..\common\src\AbstractFiducialModel.cpp(1): fatal error C1083: Datei (vorkompilierte Headerdatei) kann nicht geöffnet werden: "\cob_object_perception_intern\windows\pch\LibVisionUtils.pch": No such file or directory
+     1>..\common\src\aruco\arucofidmarkers.cpp(31): fatal error C1083: Datei (vorkompilierte Headerdatei) kann nicht geöffnet werden: "\cob_object_perception_intern\windows\pch\LibVisionUtils.pch": No such file or directory
+         board.cpp
+         boarddetector.cpp
+     1>..\common\src\aruco\board.cpp(28): fatal error C1083: Datei (vorkompilierte Headerdatei) kann nicht geöffnet werden: "\cob_object_perception_intern\windows\pch\LibVisionUtils.pch": No such file or directory
+     1>..\common\src\aruco\boarddetector.cpp(28): fatal error C1083: Datei (vorkompilierte Headerdatei) kann nicht geöffnet werden: "\cob_object_perception_intern\windows\pch\LibVisionUtils.pch": No such file or directory
+         cameraparameters.cpp
+     1>..\common\src\aruco\cameraparameters.cpp(28): fatal error C1083: Datei (vorkompilierte Headerdatei) kann nicht geöffnet werden: "\cob_object_perception_intern\windows\pch\LibVisionUtils.pch": No such file or directory
+         cvdrawingutils.cpp
+     1>..\common\src\aruco\cvdrawingutils.cpp(28): fatal error C1083: Datei (vorkompilierte Headerdatei) kann nicht geöffnet werden: "\cob_object_perception_intern\windows\pch\LibVisionUtils.pch": No such file or directory
+         FiducialModelAruco.cpp
+         marker.cpp
+     1>..\common\src\aruco\FiducialModelAruco.cpp(1): fatal error C1083: Datei (vorkompilierte Headerdatei) kann nicht geöffnet werden: "\cob_object_perception_intern\windows\pch\LibVisionUtils.pch": No such file or directory
+         markerdetector.cpp
+     1>..\common\src\aruco\markerdetector.cpp(28): fatal error C1083: Datei (vorkompilierte Headerdatei) kann nicht geöffnet werden: "\cob_object_perception_intern\windows\pch\LibVisionUtils.pch": No such file or directory
+     1>..\common\src\aruco\marker.cpp(29): fatal error C1083: Datei (vorkompilierte Headerdatei) kann nicht geöffnet werden: "\cob_object_perception_intern\windows\pch\LibVisionUtils.pch": No such file or directory
+         FiducialTestingEnvironment.cpp
+         FiducialModelPi.cpp
+     1>..\common\src\pi\FiducialModelPi.cpp(1): fatal error C1083: Datei (vorkompilierte Headerdatei) kann nicht geöffnet werden: "\cob_object_perception_intern\windows\pch\LibVisionUtils.pch": No such file or directory
+     1>..\common\src\FiducialTestingEnvironment.cpp(1): fatal error C1083: Datei (vorkompilierte Headerdatei) kann nicht geöffnet werden: "\cob_object_perception_intern\windows\pch\LibVisionUtils.pch": No such file or directory
+     1>Die Erstellung des Projekts "E:\mit_richard_03_05_2015\cob_object_perception\cob_fiducials\msvc\LibFiducials.vcxproj" ist abgeschlossen, build Ziel(e) -- FEHLER.
+
+Fehler beim Erstellen
+
+Verstrichene Zeit 00:00:14.48
